@@ -1,7 +1,7 @@
 # Oval Box
 
-![Open Outside Photo](https://github.dev/doug-harriman/oval-box/photos/open-outside.png)
-![Open Inside Photo](https://github.dev/doug-harriman/oval-box/photos/open-inside.png)
+![Open Outside Photo](https://github.com/doug-harriman/oval-box/blob/master/photos/open-outside.png)
+![Open Inside Photo](https://github.com/doug-harriman/oval-box/blob/master/photos/open-inside.png)
 
 Wood milling project to create a small oval box 
 as a gift for my mother.
